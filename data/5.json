@@ -1,12 +1,1 @@
-{
-    "nodes":[
-        {"x":132,"y":148,"text":"p_0","isAcceptState":false},
-        {"x":244,"y":148,"text":"p_1","isAcceptState":false},
-        {"x":376,"y":148,"text":"p_2","isAcceptState":true}],
-    "links":[
-        {"type":"StartLink","node":0,"text":"","deltaX":-60,"deltaY":0},
-        {"type":"SelfLink","node":0,"text":"1,0","anchorAngle":-2.0344439357957027},
-        {"type":"Link","nodeA":0,"nodeB":1,"text":"1","lineAngleAdjust":0,"parallelPart":0.5,"perpendicularPart":0},
-        {"type":"Link","nodeA":1,"nodeB":2,"text":"0,1","lineAngleAdjust":0,"parallelPart":0.5,"perpendicularPart":0}
-        ]
-}
+{"nodes":[{"x":92,"y":132,"text":"","isAcceptState":false},{"x":241,"y":135,"text":"","isAcceptState":false},{"x":389,"y":135,"text":"","isAcceptState":false},{"x":557,"y":135,"text":"","isAcceptState":true},{"x":141,"y":288,"text":"","isAcceptState":false}],"links":[{"type":"StartLink","node":0,"text":"","deltaX":-63,"deltaY":0},{"type":"Link","nodeA":0,"nodeB":4,"text":"1","lineAngleAdjust":0,"parallelPart":0.4914537906272208,"perpendicularPart":37.81927010345811},{"type":"SelfLink","node":4,"text":"1,0","anchorAngle":0.1767088560700366},{"type":"Link","nodeA":0,"nodeB":1,"text":"0","lineAngleAdjust":3.141592653589793,"parallelPart":0.5337235479513732,"perpendicularPart":-23.60595396471876},{"type":"SelfLink","node":1,"text":"0","anchorAngle":-1.4677147182721964},{"type":"Link","nodeA":1,"nodeB":2,"text":"1","lineAngleAdjust":3.141592653589793,"parallelPart":0.4594594594594595,"perpendicularPart":-30},{"type":"Link","nodeA":2,"nodeB":3,"text":"0","lineAngleAdjust":3.141592653589793,"parallelPart":0.4880952380952381,"perpendicularPart":-26},{"type":"SelfLink","node":3,"text":"0, \\epsilon","anchorAngle":-0.7378150601204649},{"type":"Link","nodeA":2,"nodeB":0,"text":"1","lineAngleAdjust":3.141592653589793,"parallelPart":0.6517037339318507,"perpendicularPart":-43.95735352350097},{"type":"Link","nodeA":3,"nodeB":1,"text":"0","lineAngleAdjust":3.141592653589793,"parallelPart":0.40822784810126583,"perpendicularPart":-51},{"type":"Link","nodeA":3,"nodeB":0,"text":"1","lineAngleAdjust":0,"parallelPart":0.5712561391825521,"perpendicularPart":98.28827706026408}]}
