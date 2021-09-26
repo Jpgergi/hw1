@@ -1,12 +1,1 @@
-{
-    "nodes":[
-        {"x":132,"y":148,"text":"p_0","isAcceptState":false},
-        {"x":244,"y":148,"text":"p_1","isAcceptState":false},
-        {"x":376,"y":148,"text":"p_2","isAcceptState":true}],
-    "links":[
-        {"type":"StartLink","node":0,"text":"","deltaX":-60,"deltaY":0},
-        {"type":"SelfLink","node":0,"text":"1,0","anchorAngle":-2.0344439357957027},
-        {"type":"Link","nodeA":0,"nodeB":1,"text":"1","lineAngleAdjust":0,"parallelPart":0.5,"perpendicularPart":0},
-        {"type":"Link","nodeA":1,"nodeB":2,"text":"0,1","lineAngleAdjust":0,"parallelPart":0.5,"perpendicularPart":0}
-        ]
-}
+{"nodes":[{"x":197,"y":149,"text":"","isAcceptState":false},{"x":442,"y":149,"text":"","isAcceptState":true}],"links":[{"type":"StartLink","node":0,"text":"","deltaX":-100,"deltaY":0},{"type":"SelfLink","node":0,"text":"1","anchorAngle":-1.6743846064446506},{"type":"SelfLink","node":1,"text":"1","anchorAngle":-1.5707963267948966},{"type":"Link","nodeA":0,"nodeB":1,"text":"0","lineAngleAdjust":3.141592653589793,"parallelPart":0.4489795918367347,"perpendicularPart":-19},{"type":"Link","nodeA":1,"nodeB":0,"text":"0","lineAngleAdjust":3.141592653589793,"parallelPart":0.4530612244897959,"perpendicularPart":-34}]}
